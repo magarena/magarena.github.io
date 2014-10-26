@@ -20,7 +20,7 @@ author:
 paginate:         1
 
 # Custom vars
-version:          1.54
+version:          1.55
 
 github:
   repo:           //github.com/magarena/magarena
