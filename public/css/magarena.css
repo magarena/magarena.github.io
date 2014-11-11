@@ -3,7 +3,7 @@
   font-family: 'Beleren Small Caps';
   font-style: normal;
   font-weight: 400;
-  src: url(https://magarena.github.io/public/css/woff/Beleren%20Small%20Caps.woff2);
+  src: url(https://magarena.github.io/public/css/woff/Beleren%20Small%20Caps.woff);
 }
 
 @font-face {
@@ -17,28 +17,28 @@
     font-family: 'MPlantin'
     font-style: normal;
     font-weight: 400;
-    src: url(https://magarena.github.io/public/css/woff/MPlantin.woff2);
+    src: url(https://magarena.github.io/public/css/woff/MPlantin.woff);
 }
 
 @font-face {
     font-family: 'MPlantin'
     font-style: italic;
     font-weight: 400;
-    src: url(https://magarena.github.io/public/css/woff/MPlantin-Italic.woff2);
+    src: url(https://magarena.github.io/public/css/woff/MPlantin-Italic.woff);
 }
 
 @font-face {
     font-family: 'MPlantin'
     font-style: bold;
     font-weight: 400;
-    src: url(https://magarena.github.io/public/css/woff/MPlantin-Bold.woff2);
+    src: url(https://magarena.github.io/public/css/woff/MPlantin-Bold.woff);
 }
 
 @font-face {
     font-family: 'MPlantin'
     font-style: bold,italic;
     font-weight: 400;
-    src: url(https://magarena.github.io/public/css/woff/MPlantin-BoldItalic.woff2);
+    src: url(https://magarena.github.io/public/css/woff/MPlantin-BoldItalic.woff);
 }
 
 html {
