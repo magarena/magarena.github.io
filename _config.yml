@@ -16,6 +16,7 @@ author:
   name:           'Magarena team'
   email:          magarena@googlegroups.com
 
+gems: [jekyll-paginate]
 paginate:         1
 
 # Custom vars
