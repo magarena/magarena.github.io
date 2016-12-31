@@ -20,7 +20,7 @@ gems: [jekyll-paginate]
 paginate:         1
 
 # Custom vars
-version:          '1.79'
+version:          '1.80'
 
 github:
   repo:           //github.com/magarena/magarena
